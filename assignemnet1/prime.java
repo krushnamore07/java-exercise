@@ -1,3 +1,5 @@
+/*17.Check given number is prime or not. */
+
 import java.util.Scanner;
 
 class Demo
@@ -25,6 +27,7 @@ class Demo
         else
         {
             System.out.println(num +"no is prime ");
+
         }
 
     }

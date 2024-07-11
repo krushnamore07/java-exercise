@@ -20,11 +20,11 @@ class Demo
         {
             System.out.println("A grade ");
         }
-        if(percentage >60)
+        else  if(percentage >60)
         {
             System.out.println("B grade "); 
         }
-        if(percentage >50)
+        else  if(percentage >50)
         {
             System.out.println("C grade "); 
         }
