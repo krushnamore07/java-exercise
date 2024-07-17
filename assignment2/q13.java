@@ -1,8 +1,9 @@
 /*13 Accept a matrix and display sum of diagonal number of matrix */
 /* 6 Accept a matrix and display it.*/
+/***Akash Giri****/
 import java.util.Scanner;
 
-class Demo
+class Demo 
 {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
